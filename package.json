@@ -1,0 +1,23 @@
+{
+  "name": "pinyin",
+  "version": "1.0.0",
+  "description": "pinyin for javascript",
+  "main": "pinyin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijihome/pinyin.git"
+  },
+  "keywords": [
+    "chinese",
+    "pinyin"
+  ],
+  "author": "jijihome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jijihome/pinyin/issues"
+  },
+  "homepage": "https://github.com/jijihome/pinyin#readme"
+}
